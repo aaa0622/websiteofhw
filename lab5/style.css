@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+h2 {
+    height: 32px;
+	background-color:#FFFFFF
+}
+.bgSizeCover {
+  background-image: url('https://i.imgur.com/7T2pvw7.jpg');
+  background-size: 100% 100%;
+}
